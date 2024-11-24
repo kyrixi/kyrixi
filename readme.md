@@ -25,8 +25,8 @@ Here are some tools and technologies I work with daily:
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=minami-dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minami-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=kyrixi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrixi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
